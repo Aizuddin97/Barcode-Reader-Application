@@ -19,7 +19,6 @@ The project is  about scan any barcode product by using smartphone camera. Easy 
 Module & Functionalities of mobile application
 -----------
 Several module and functionalities are implement in the application which include :
-
 1. Function call of barcode scanner
 2. Function of add and delete
 3. Function add to database
@@ -35,5 +34,5 @@ Using Google API
 How to use:-
 1) Download the master-copy.
 2) Unzip the file and extract the file to your desired directory.
-3) Open Android Studio and go to File>Open then import the file.
+3) Open Android Studio and go to File >Open then import the file.
 4) Run the file in your emulator of conected devices.

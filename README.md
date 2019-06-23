@@ -21,13 +21,9 @@ Module & Functionalities of mobile application
 Several module and functionalities are implement in the application which include :
 
 1. Function call of barcode scanner
-
 2. Function of add and delete
-
 3. Function add to database
-
 4. Search function
-
 5. Web view search function
 
 ---

@@ -12,9 +12,8 @@ NURUL NABILA BINTI S MAHADI
 MUHAMMAD AIZUDDIN BIN MOHD NOR AZINAN
 
 ---
-Introduction
------------
-The project is all about scan any barcode product by using smartphone camera. Easy to find any kind of product especially at supermarket. The data can be interpreted into readable context for the user to use.
+
+The project is  about scan any barcode product by using smartphone camera. Easy to find any kind of product especially at supermarket. The data can be interpreted into readable context for the user to use.
 
 ---
 Module & Functionalities of mobile application
